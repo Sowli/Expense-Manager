@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264983402716",
+    "project_id": "expensemanagerfirebase-441e9",
+    "storage_bucket": "expensemanagerfirebase-441e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264983402716:android:84ff007256fdc69cb0bc19",
+        "android_client_info": {
+          "package_name": "com.labactivity.expensemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxAV_aFXiOPG4Gc7Eqv3MoVR6z2v3rknQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
